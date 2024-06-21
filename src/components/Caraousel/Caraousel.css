@@ -1,0 +1,15 @@
+#c1{
+    margin: 51px;
+    
+}
+
+.explore {
+    color: #f1e5e5;
+    background-color: #000;
+    align-items: center;
+    margin: 61px ;
+    display: flex;
+    height: 96px;
+    border-radius: 88px;
+    margin-top: 21px;
+}

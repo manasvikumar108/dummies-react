@@ -1,0 +1,27 @@
+#navbar{
+    background-color: yellow;
+    margin-top: 0px;
+}
+
+#navUl{
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+}
+
+.navCl{
+    font-size: larger;
+    font-weight: bolder;
+    padding: 11px 11px;
+    margin: 0px 20px;
+    align-content: center;
+}
+
+#search{
+    margin-left: 228px;
+}
+
+.navCl:hover{
+    cursor: pointer;
+    background-color: rgb(206, 216, 118);
+}
