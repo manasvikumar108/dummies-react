@@ -12,8 +12,8 @@ const Navbar = (props) => {
                 <li className='navCl'>{props.l2}</li>
                 <li className='navCl'>{props.l3}</li>
                 <li className='navCl'>{props.l4}</li>
-                <li className='navCl' id='search'><input type="text" placeholder="Search.."/></li>
-                <li className='navCl' id='login'><button>Log In</button></li>
+                <li className='navCl' id='search'><input id='searchbar' type="text" placeholder="Search for articles and books"/></li>
+                <li className='navCl'><button id='login'>Log In</button></li>
             </ul>
         </div>
     

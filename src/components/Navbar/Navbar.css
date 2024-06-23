@@ -11,17 +11,40 @@
 
 .navCl{
     font-size: larger;
-    font-weight: bolder;
+    font-weight: bold;
     padding: 11px 11px;
     margin: 0px 20px;
     align-content: center;
 }
 
 #search{
-    margin-left: 228px;
+    margin-left: 121px;
+}
+
+#searchbar{
+    border: 0px solid gray;
+    padding: 11px;
+    width: 221px;
+    font-size: medium;
+}
+
+#login{
+    padding: 14px;
+    width: 121px;
+    font-size: large;
+    font-weight: bold;
+    color: white;
+    background-color: black;
+}
+
+#login:hover{
+    border: 4px solid black;
+    background-color: yellow;
+    color: black;
 }
 
 .navCl:hover{
     cursor: pointer;
-    background-color: rgb(206, 216, 118);
+    /* background-color: rgb(206, 216, 118); */
+    text-decoration: underline;
 }

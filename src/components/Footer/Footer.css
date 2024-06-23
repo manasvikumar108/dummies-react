@@ -1,0 +1,34 @@
+#main{
+    background-color: black;
+    color: white;
+    
+}
+
+#first{
+    display: flex;
+
+}
+
+.footerHeading{
+    text-decoration: underline;
+}
+
+.columns{
+    display: flex;
+    flex-direction: column;
+    margin: 111px;
+    margin-top: 11px;
+    margin-bottom: 11px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    font-size: larger;
+    width: 241px;
+    padding: 11px;
+}
+
+a:hover{
+    text-decoration: underline;
+}
